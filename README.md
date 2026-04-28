@@ -6,6 +6,7 @@
 
 4. Features
   - User registration & login
+  - Transaction Alert System 
   - Account balance check
   - Money transfer system
   - Transaction history
