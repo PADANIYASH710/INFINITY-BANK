@@ -32,22 +32,22 @@
    LinkedIn: https://www.linkedin.com/in/yash-padani-b7a096383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 7. Output Screens
-<img width="1896" height="910" alt="Screenshot 2026-04-27 175311" src="https://github.com/user-attachments/assets/0653531b-26db-4559-9baa-15d02f93fba5" />
 <br>
+<img width="1896" height="910" border="2" alt="Screenshot 2026-04-27 175311" src="https://github.com/user-attachments/assets/0653531b-26db-4559-9baa-15d02f93fba5" /><br>
 <img width="1881" height="727" alt="Screenshot 2026-03-29 140036" src="https://github.com/user-attachments/assets/95ba4d85-41ba-4a5f-a7de-612102164170" />
-<br><br>
+<br>
 <img width="1893" height="720" alt="Screenshot 2026-03-29 140116" src="https://github.com/user-attachments/assets/8d85c77d-6b97-4a64-9250-ed41dba47d15" />
-<br><br>
-<img width="1600" height="776" alt="e0c88d2e-6cfe-4128-bc3d-86b509798ed7" src="https://github.com/user-attachments/assets/b469af01-b4f4-4c31-bd3d-1ef1c59c06f9" /><br><br>
+<br>
+<img width="1600" height="776" alt="e0c88d2e-6cfe-4128-bc3d-86b509798ed7" src="https://github.com/user-attachments/assets/b469af01-b4f4-4c31-bd3d-1ef1c59c06f9" /><br>
 <img width="1896" height="906" alt="Screenshot 2026-04-27 175552" src="https://github.com/user-attachments/assets/f96031ac-0156-48c6-a2a6-1fb01825c795" />
-<br><br>
-<img width="1600" height="770" alt="5bec14fd-ec7b-426e-a840-b3bf05191be8" src="https://github.com/user-attachments/assets/40c8baf8-0f6f-427a-9086-c12a1f213c6f" /><br><br>
+<br>
+<img width="1600" height="770" alt="5bec14fd-ec7b-426e-a840-b3bf05191be8" src="https://github.com/user-attachments/assets/40c8baf8-0f6f-427a-9086-c12a1f213c6f" /><br>
 <img width="1574" height="699" alt="Screenshot 2026-03-29 140157" src="https://github.com/user-attachments/assets/0031a343-7acf-4ec7-b2ea-4ec2aba3852f" />
-<br><br>
+<br>
 <img width="1770" height="732" alt="Screenshot 2026-04-27 175747" src="https://github.com/user-attachments/assets/27a22f44-a058-4d81-a2d9-690446b2ab7f" />
-<br><br>
+<br>
 <img width="1308" height="590" alt="Screenshot 2026-03-29 140007" src="https://github.com/user-attachments/assets/cc01cd3d-3038-4f8c-84f7-0db024a90b9d" />
-<br><br>
+<br>
 <img width="1827" height="718" alt="Screenshot 2026-04-27 175426" src="https://github.com/user-attachments/assets/9d4735fb-a1d7-40ac-8568-d99c8b0e4b32" />
 
 
