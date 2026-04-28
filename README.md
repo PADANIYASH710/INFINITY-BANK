@@ -1,10 +1,10 @@
-1. Project Title : 
+1. Project Title:
 "Online Banking System"
    
-2. Description
+3. Description
       This is a web-based Online Banking System that allows users to manage accounts, transfer money, and view transaction history. The project is built using PHP, MySQL, HTML, CSS, and JavaScript.
 
-3. Features
+4. Features
   - User registration & login
   - Account balance check
   - Money transfer system
@@ -25,7 +25,7 @@
     3. Start Apache & MySQL
     4. Import database file (.sql)
     5. Open browser and run:
-       http://localhost/Infinity Bank
+       http://localhost/Infinity-Bank
 
 6. Author Info
    Name : Padani Yash   
