@@ -1,5 +1,5 @@
 1. Project Title
-    Online Banking System
+"Online Banking System"
    
 2. Description
       This is a web-based Online Banking System that allows users to manage accounts, transfer money, and view transaction history. The project is built using PHP, MySQL, HTML, CSS, and JavaScript.
