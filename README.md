@@ -1,4 +1,4 @@
-1. Project Title:
+1. Project Title :
 "Infinity Bank - Online Banking System"
    
 3. Description
