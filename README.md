@@ -33,7 +33,7 @@
 
 7. Output Screens
 <img width="1896" height="910" alt="Screenshot 2026-04-27 175311" src="https://github.com/user-attachments/assets/0653531b-26db-4559-9baa-15d02f93fba5" />
-<br><br>
+<br>
 <img width="1881" height="727" alt="Screenshot 2026-03-29 140036" src="https://github.com/user-attachments/assets/95ba4d85-41ba-4a5f-a7de-612102164170" />
 <br><br>
 <img width="1893" height="720" alt="Screenshot 2026-03-29 140116" src="https://github.com/user-attachments/assets/8d85c77d-6b97-4a64-9250-ed41dba47d15" />
